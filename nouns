@@ -13,6 +13,13 @@ bat
 giraffe
 pig
 rabbit
+<<<<<<< HEAD
 cow
 cat
 dog
+=======
+
+falcon
+potato
+peanut
+>>>>>>> develop
